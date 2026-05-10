@@ -1,0 +1,158 @@
+[16:03:19.865] University Course Registration System – Starting
+[16:03:19.865] Students: 60 | Courses: 8
+[16:03:19.865] Spawning 60 student threads…
+[16:03:19.875] S1052 | CS104-Operating Systems        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1058 | CS107-Software Engineering     | Priority: HIGH | REGISTERED
+[16:03:19.875] S1058 | CS106-Database Systems         | Priority: HIGH | REGISTERED
+[16:03:19.875] S1043 | CS102-Data Structures          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1043 | CS104-Operating Systems        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1043 | CS105-Computer Networks        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1055 | CS104-Operating Systems        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1055 | CS101-Intro to CS              | Priority: HIGH | REGISTERED
+[16:03:19.875] S1049 | CS108-AI Fundamentals          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1022 | CS101-Intro to CS              | Priority: HIGH | REGISTERED
+[16:03:19.875] S1022 | CS108-AI Fundamentals          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1022 | CS105-Computer Networks        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1040 | CS104-Operating Systems        | Priority: HIGH | FAILED – No Seats
+[16:03:19.875] S1040 | CS102-Data Structures          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1031 | CS103-Algorithms               | Priority: HIGH | REGISTERED
+[16:03:19.875] S1031 | CS102-Data Structures          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1031 | CS106-Database Systems         | Priority: HIGH | REGISTERED
+[16:03:19.875] S1028 | CS102-Data Structures          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1046 | CS106-Database Systems         | Priority: HIGH | REGISTERED
+[16:03:19.875] S1046 | CS108-AI Fundamentals          | Priority: HIGH | REGISTERED
+[16:03:19.875] S1037 | CS108-AI Fundamentals          | Priority: HIGH | FAILED – No Seats
+[16:03:19.875] S1037 | CS106-Database Systems         | Priority: HIGH | REGISTERED
+[16:03:19.875] S1034 | CS105-Computer Networks        | Priority: HIGH | REGISTERED
+[16:03:19.875] S1034 | CS102-Data Structures          | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1019 | CS101-Intro to CS              | Priority: HIGH | REGISTERED
+[16:03:19.876] S1019 | CS105-Computer Networks        | Priority: HIGH | REGISTERED
+[16:03:19.876] S1025 | CS102-Data Structures          | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1025 | CS103-Algorithms               | Priority: HIGH | REGISTERED
+[16:03:19.876] S1016 | CS106-Database Systems         | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1016 | CS103-Algorithms               | Priority: HIGH | REGISTERED
+[16:03:19.876] S1016 | CS101-Intro to CS              | Priority: HIGH | REGISTERED
+[16:03:19.876] S1004 | CS107-Software Engineering     | Priority: HIGH | REGISTERED
+[16:03:19.876] S1004 | CS106-Database Systems         | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1004 | CS101-Intro to CS              | Priority: HIGH | REGISTERED
+[16:03:19.876] S1013 | CS101-Intro to CS              | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1013 | CS102-Data Structures          | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1010 | CS107-Software Engineering     | Priority: HIGH | REGISTERED
+[16:03:19.876] S1010 | CS104-Operating Systems        | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1007 | CS104-Operating Systems        | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] All threads released – registration in progress…
+[16:03:19.876] S1001 | CS108-AI Fundamentals          | Priority: HIGH | FAILED – No Seats
+[16:03:19.876] S1001 | CS105-Computer Networks        | Priority: HIGH | REGISTERED
+[16:03:19.880] S1041 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.880] S1041 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.880] S1041 | CS107-Software Engineering     | Priority: LOW  | REGISTERED
+[16:03:19.881] S1053 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1053 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1053 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1024 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1024 | CS103-Algorithms               | Priority: LOW  | REGISTERED
+[16:03:19.881] S1018 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1005 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1008 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1008 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1008 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1009 | CS107-Software Engineering     | Priority: LOW  | REGISTERED
+[16:03:19.881] S1009 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1017 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1017 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1017 | CS103-Algorithms               | Priority: LOW  | REGISTERED
+[16:03:19.881] S1026 | CS103-Algorithms               | Priority: LOW  | REGISTERED
+[16:03:19.881] S1002 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1002 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1044 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1044 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1044 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1033 | CS107-Software Engineering     | Priority: LOW  | REGISTERED
+[16:03:19.881] S1020 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1020 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1020 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1027 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1006 | CS107-Software Engineering     | Priority: LOW  | REGISTERED
+[16:03:19.881] S1006 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1021 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1021 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1015 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1015 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1015 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1029 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1029 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1029 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1003 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1003 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1038 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1038 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1038 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1014 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1014 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1011 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1011 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1011 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1012 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1012 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1023 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1023 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1030 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1030 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1036 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1036 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1036 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1035 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1035 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1035 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1039 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1039 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1039 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.881] S1048 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1054 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1054 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1054 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1060 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1051 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1051 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1051 | CS102-Data Structures          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1042 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1042 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1042 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1047 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1045 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1045 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1050 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1050 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1050 | CS106-Database Systems         | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1056 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1056 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1056 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1057 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1057 | CS101-Intro to CS              | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1057 | CS107-Software Engineering     | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1059 | CS103-Algorithms               | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1059 | CS108-AI Fundamentals          | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1032 | CS105-Computer Networks        | Priority: LOW  | FAILED – No Seats
+[16:03:19.882] S1032 | CS104-Operating Systems        | Priority: LOW  | FAILED – No Seats
+[16:03:19.883] All threads terminated cleanly.
+[16:03:19.883] =====================================================================
+[16:03:19.883] FINAL COURSE SEAT ALLOCATION
+[16:03:19.883] =====================================================================
+[16:03:19.883] ID     Course                              Total Enrolled Remaining
+[16:03:19.883] ------ -------------------------------- -------- -------- --------
+[16:03:19.883] CS101  CS101-Intro to CS                       5        5        0
+[16:03:19.883] CS102  CS102-Data Structures                   4        4        0
+[16:03:19.883] CS103  CS103-Algorithms                        6        6        0
+[16:03:19.883] CS104  CS104-Operating Systems                 3        3        0
+[16:03:19.883] CS105  CS105-Computer Networks                 5        5        0
+[16:03:19.883] CS106  CS106-Database Systems                  4        4        0
+[16:03:19.883] CS107  CS107-Software Engineering              7        7        0
+[16:03:19.883] CS108  CS108-AI Fundamentals                   3        3        0
+[16:03:19.883] =====================================================================
+[16:03:19.883] SUMMARY STATISTICS
+[16:03:19.883] =====================================================================
+[16:03:19.883] Total Students       : 60
+[16:03:19.883] Total Requests       : (varies, 1-3 per student)
+[16:03:19.883] Successful Registers : 37
+[16:03:19.883] Failed Registers     : 95
+[16:03:19.883] =====================================================================
